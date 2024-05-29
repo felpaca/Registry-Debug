@@ -1,0 +1,5 @@
+Run "Registry Debug.exe"
+
+If you get any errors, run it as Administrator.
+
+All credits to Polar Services, felpaca
